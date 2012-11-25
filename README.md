@@ -1,1 +1,1 @@
-Download the ZIP to get started with Ember.js: <https://github.com/emberjs/starter-kit/downloads>
+This was an expermiment to see if updating the DOM with bindings very quickly would have a severe performance hit. The 3d physics part was just for a giggle.
